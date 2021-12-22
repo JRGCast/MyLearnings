@@ -10,3 +10,6 @@
 [submodule "Docker"]
 	path = Docker
 	url = https://github.com/JRGCast/Docker-Learning
+[submodule "Angular"]
+	path = Angular
+	url = https://github.com/JRGCast/Angular-learning
