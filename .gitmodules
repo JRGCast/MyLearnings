@@ -1,0 +1,9 @@
+[submodule "Golang"]
+	path = Golang
+	url = https://github.com/JRGCast/golang-from-scratch.git
+[submodule "POO"]
+	path = POO
+	url = https://github.com/JRGCast/POO-Learning.git
+[submodule "TypeScript"]
+	path = TypeScript
+	url = https://github.com/JRGCast/TS-Learning.git

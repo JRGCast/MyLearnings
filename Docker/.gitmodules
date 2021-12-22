@@ -1,0 +1,6 @@
+[submodule "docker-conteiners-simples-e-rapida"]
+	path = docker-conteiners-simples-e-rapida
+	url = https://github.com/JRGCast/Docker-conteiners-simples-rapida.git
+[submodule "dockerized-things"]
+	path = dockerized-things
+	url = https://github.com/JRGCast/Dockerized-things
