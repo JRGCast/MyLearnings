@@ -7,6 +7,3 @@
 [submodule "TypeScript"]
 	path = TypeScript
 	url = https://github.com/JRGCast/TS-Learning.git
-[submodule "Docker"]
-	path = Docker
-	url = https://github.com/JRGCast/Docker-Learning
