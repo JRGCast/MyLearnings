@@ -13,3 +13,6 @@
 [submodule "Angular"]
 	path = Angular
 	url = https://github.com/JRGCast/Angular-learning
+[submodule "testing-content"]
+	path = testing-content
+	url = https://github.com/JRGCast/testing-content
